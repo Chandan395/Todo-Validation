@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "id": "b35a",
+      "name": "chandan",
+      "age": "23",
+      "email": "c@gmail.com"
+    },
+    {
+      "name": "girish parida",
+      "email": "girish@gmail.com",
+      "age": "123",
+      "id": "4be9"
+    },
+    {
+      "name": "deepak majhi",
+      "email": "deepk@gmail.com",
+      "age": "123",
+      "id": "e304"
+    },
+    {
+      "name": "deepak chumma",
+      "email": "deepk@gmail.com",
+      "age": "123",
+      "id": "c0c3"
+    },
+    {
+      "id": "55b5",
+      "name": "deepak",
+      "age": "123",
+      "email": "deepk@gmail.com"
+    },
+    {
+      "id": "c66b",
+      "name": "rahul",
+      "age": "123",
+      "email": "rahul@gmail.com"
+    },
+    {
+      "id": "b75e",
+      "name": "suraj polai ",
+      "age": "88",
+      "email": "suraj@gmail.com"
+    }
+  ]
+}
